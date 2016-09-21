@@ -1,0 +1,28 @@
+/*********************** Admin Dashboard Styles ************************/
+
+#woocommerce_dashboard_recent_reviews .avatar {
+    width:50px;
+    height: auto;
+}
+
+/*********************** Admin Bar Styles **************************/
+
+#wpadminbar {
+    height: 80px;
+}
+#wpbody {
+    float: none;
+    margin: 4% auto;
+}
+.avocado-site-name {
+    width: 230px !important; 
+    line-height: 50px; 
+    height: 50px; 
+    margin-right: 10px; 
+    overflow: hidden;
+    background-repeat: no-repeat !important;
+    margin: 8px !important;
+}
+.avocado-site-name a{
+    height: 80px !important;
+}
